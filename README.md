@@ -4,9 +4,9 @@
 
 I design and build websites, e-commerce stores, fintech and investment platforms, web apps and AI tools, end to end: from the first sketch to a live product with payments, dashboards and admin portals.
 
-🌐 **Portfolio:** [weezie-portfolio.vercel.app](https://weezie-portfolio.vercel.app)
+🌐 **Portfolio:** [weezie.site](https://weezie.site)
 ✉️ **Email:** enangweezie@gmail.com
-📝 **Start a project:** fill the [2-minute brief](https://weezie-portfolio.vercel.app/#pricing) and get a reply within 24 hours
+📝 **Start a project:** fill the [2-minute brief](https://weezie.site/#pricing) and get a reply within 24 hours
 
 ## What I build
 
